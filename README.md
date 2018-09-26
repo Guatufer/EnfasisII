@@ -1,2 +1,2 @@
 # EnfasisII
-Repositorio diseñado para para guardar información referentes al curso de énfasis 2
+Repositorio diseñado para para guardar información referente a el curso de énfasis 2
